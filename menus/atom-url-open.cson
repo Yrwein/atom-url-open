@@ -1,0 +1,8 @@
+
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Open URL'
+      'command': 'atom-url-open:open'
+    }
+  ]

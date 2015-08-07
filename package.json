@@ -1,0 +1,18 @@
+{
+  "name": "atom-url-open",
+  "main": "./lib/atom-url-open",
+  "version": "0.0.0",
+  "description": "Opens URL under cursor in external browser",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-url-open:open"
+  },
+  "repository": "https://github.com/Yrwein/atom-url-open",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

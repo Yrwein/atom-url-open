@@ -1,0 +1,4 @@
+
+'atom-text-editor':
+  'ctrl-i': 'atom-url-open:open'
+
